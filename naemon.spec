@@ -3,7 +3,7 @@
 
 Summary: Core scheduling and checking engine for op5 Monitor
 Name: op5-naemon
-Version: %{version}
+Version: lastest
 Release: 1%{?dist}
 License: GPLv2
 Group: op5/Monitor
